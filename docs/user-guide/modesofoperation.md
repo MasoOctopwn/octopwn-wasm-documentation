@@ -2,7 +2,7 @@
 # Mode of operation
 
 # Offline
-No network connections will be made to other hosts. Nothing extra to configure
+No network connections will be made to other hosts. Nothing extra to configure.
 
 # Remote
 This mode turns the OctoPwn webpage into a UI for a remote server. Currently in closed beta.

@@ -10,6 +10,6 @@ Here you can find all information about all editions of Octopwn:
 
 If you need further help, please [write us here](https://octopwn.com/support) or use the support channel on our [Discord](https://discord.gg/7amw5mD37Y).  
     
-**Current Octopwn version:** v0.9  
-**Current public Beta version:** none  
+**Current Octopwn version:** v0.9 Beta  
+**Current public Beta version:** v0.9 Beta  
 **Currently in development:** New UI, Attacks, improved file uploader  

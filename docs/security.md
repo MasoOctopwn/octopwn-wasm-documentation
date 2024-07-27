@@ -79,5 +79,5 @@ Our practices are tailored to protect your data and uphold privacy, aligning wit
 
 ## Conclusion
 
-Thank you for engaging with our security documentation. Your trust and security are paramount to us at OctoPwn, and we remain dedicated to safeguarding your digital interactions and data. For further inquiries, please [contact us](mailto:[email protected]).
+Thank you for engaging with our security documentation. Your trust and security are paramount to us at OctoPwn, and we remain dedicated to safeguarding your digital interactions and data. For further inquiries, please contact us at support at octopwn dot com.
 
